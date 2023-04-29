@@ -1,5 +1,4 @@
- ### Hi there, I'm Negin Hajisobhani
- I'm currently studying Computer Engineering at [Amirkabir University of Technology](https://aut.ac.ir/).<br> 
+Computer Engineering graduate at [Amirkabir University of Technology](https://aut.ac.ir/).<br> 
 
 
 #### Contact Info 
