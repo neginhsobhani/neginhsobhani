@@ -1,4 +1,4 @@
-Computer Engineering graduate at [Amirkabir University of Technology](https://aut.ac.ir/).<br> 
+Computer Engineering graduate from [Amirkabir University of Technology](https://aut.ac.ir/).<br> 
 
 
 #### Contact Info 
